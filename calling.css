@@ -1,0 +1,63 @@
+.novare{
+  height: 100vh;
+  background-color: black;
+}
+
+.box {
+  background-color: aqua;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  position: absolute;
+  
+
+}
+
+.box1 {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: white;
+
+  position: relative;
+  top: 20px;
+  left: 40px;
+}
+.box2 {
+  height: 20px;
+  width: 40px;
+  border-radius: 30px;
+  background-color: white;
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
+.call{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: chocolate;
+  position: absolute;
+margin: 0px 100px;
+
+
+}
+.call1{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: white;
+  position: relative;
+  top: 20px;
+  left: 40px;
+}
+  .call2{
+    height: 20px;
+    width: 40px;
+    border-radius: 30px;
+    background-color: white;
+    position: relative;
+    top: 30px;
+    left: 30px;
+  }  
+  
